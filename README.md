@@ -13,9 +13,10 @@ SlowDive是我常用的比赛ID<br>它源自我最喜欢的乐队的名字
 </a>
 
 ![SlowDive's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkx1998&show_icons=true&theme=onedark&hide_title=True&line_height=20)
+
 -----
 
 <!-- ### 
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
-![My Github Status](https://github-readme-stats.vercel.app/api?username=quananhle&show_icons=true&theme=shades-of-purple&hide_border=true) -->
+![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=qkx1998&show_icons=true&theme=tokyonight&hide_border=true)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=qkx1998&show_icons=true&theme=shades-of-purple&hide_border=true) -->
 
