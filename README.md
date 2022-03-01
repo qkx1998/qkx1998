@@ -12,4 +12,8 @@ SlowDive是我常用的比赛ID<br>它源自我最喜欢的乐队的名字
   <img align="right" src="https://komarev.com/ghpvc/?username=qkx1998&style=flat-square" />
 </a>
 
+<a href="https://github.com/SlowDive">
+  <img src="https://github-readme-stats.vercel.app/api?username=qkx1998&show_icons=true&hide_border=true" />
+</a>
+
 
