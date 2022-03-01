@@ -4,7 +4,7 @@
 SlowDive是我常用的比赛ID，源自我最喜欢的乐队的名字
 - 职业：算法工程师 风控反欺诈    
 - 学校：东华大学 控制科学与工程
-- 爱好：后摇 后朋克 盯鞋 Livehouse Normcore
+- 爱好：Indie Livehouse Normcore
 -----
 <a href="https://github.com/qkx1998">
   <img align="right" src="https://komarev.com/ghpvc/?username=qkx1998&style=flat-square" />
