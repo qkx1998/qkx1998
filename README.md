@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57030042/156145287-506360c8-2a0e-4a90-9391-421b6873e27c.jpg" width="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57030042/156145287-506360c8-2a0e-4a90-9391-421b6873e27c.jpg" width="330" />
 
 ### Hello Everyone, I'm SlowDive~ ☀️ 
 SlowDive是我常用的比赛ID，源自我最喜欢的乐队的名字
