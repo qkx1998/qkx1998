@@ -9,7 +9,7 @@ SlowDive是我常用的比赛ID<br>它源自我最喜欢的乐队的名字
 - 爱好：后摇 后朋克 盯鞋 Livehouse Normcore
 -----
 <a href="https://github.com/qkx1998">
-  <img src="https://komarev.com/ghpvc/?username=qkx1998&style=flat-square" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=qkx1998&style=flat-square" />
 </a>
 
 
