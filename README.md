@@ -1,5 +1,7 @@
-### Hello Everyone~ ☀️
-
+### Hello Everyone, I'm SlowDive~ ☀️ 
+- 职业：算法工程师 风控反欺诈
+- 学校：东华大学 控制科学与工程
+- 个人邮箱：18438605721@163.com
 
 <!--
 **qkx1998/qkx1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
