@@ -1,5 +1,6 @@
 ### Hello Everyone, I'm SlowDive~ ☀️ 
 SlowDive是我最常用的比赛ID，它源自我最喜欢的乐队名。 ![微信图片_20220301174527](https://user-images.githubusercontent.com/57030042/156145287-506360c8-2a0e-4a90-9391-421b6873e27c.jpg)
+<img src="https://user-images.githubusercontent.com/57030042/156145287-506360c8-2a0e-4a90-9391-421b6873e27c.jpg" width="48" height="32">
 - 公司：JDT 
 - 职业：算法工程师 风控反欺诈
 - 学校：东华大学 控制科学与工程
