@@ -2,7 +2,6 @@
 
 ### Hello Everyone, I'm SlowDive~ ☀️ 
 SlowDive是我常用的比赛ID<br>它源自我最喜欢的乐队的名字
-- 男 24岁 巨蟹座
 - 职业：算法工程师 风控反欺诈    
 - 学校：东华大学 控制科学与工程
 - 爱好：后摇 后朋克 盯鞋 Livehouse Normcore
