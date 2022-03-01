@@ -7,7 +7,7 @@ SlowDive是我常用的比赛ID<br>它源自我最喜欢的乐队的名字
 - 学校：东华大学 控制科学与工程
 - 个人邮箱：18438605721@163.com
 - 爱好：后摇 后朋克 盯鞋 Livehouse Normcore
-
+-----
 
 <!--
 **qkx1998/qkx1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
