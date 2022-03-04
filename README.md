@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57030042/156145287-506360c8-2a0e-4a90-9391-421b6873e27c.jpg" width="360" />
-_________________________<br/>
+------
 **If time drift**<br/>
 <br/>
 **Climb**<br/>
@@ -9,7 +9,7 @@ _________________________<br/>
 **Spring and off**<br/>
 <br/>
 **Stream all the sorrow**<br/>
-_________________________
+------
 
 
 
