@@ -6,8 +6,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=qkx1998&style=flat-square" />
 </a>
 
-![SlowDive's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkx1998&show_icons=true&theme=onedark&hide_title=True&line_height=20)
-
 
 
 
