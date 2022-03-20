@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57030042/159161129-b3e55a64-4fbd-4188-8f1c-5a261ffc8f9f.jpg"/>
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57030042/159161160-6b11730a-2415-45fc-8499-f3b10bd7793c.png"/>
 
 
